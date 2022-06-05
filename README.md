@@ -11,4 +11,5 @@ For record my kaggle & dacon competiton code and insight.
 - https://www.kaggle.com/competitions/devkor-image-classification
 - https://www.kaggle.com/competitions/devkor-sentiment-analysis
 
+***
 #### Dacon
